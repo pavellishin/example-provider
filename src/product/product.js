@@ -7,6 +7,7 @@ class Product {
         this.color = color;
 
         // this is a change, technically speaking
+        // so is this
     }
 }
 
